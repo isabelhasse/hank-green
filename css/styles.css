@@ -1,3 +1,16 @@
+body {
+  background-color: #B4E8FE;
+}
+
+h1 {
+  color: #004F71;
+  font-style: italic;
+}
+
+p {
+  color: #3E535D;
+}
+
 .image {
   float: left;
 }
