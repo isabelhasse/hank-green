@@ -1,0 +1,9 @@
+.image {
+  float: left;
+}
+
+.sidebar {
+  float: right;
+  background: black;
+  color: skyblue;
+}
