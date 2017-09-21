@@ -1,9 +1,14 @@
 .image {
   float: left;
+  padding: 10px;
+  margin: 5px 10px 5px 10px;
 }
 
 .sidebar {
   float: right;
   background: black;
   color: skyblue;
+  padding: 5px;
+  margin: 5px;
+  border: 2px grey dashed;
 }
